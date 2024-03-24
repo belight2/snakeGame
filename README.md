@@ -11,7 +11,7 @@ C++Programming 3주차 과제 2번 - SnakeGame
 8. g++ -o main.exe console.o main.o game.o display.o util.o
 9. .\main.exe
 
-main.cpp : 메인 함수
+main.cpp : 메인 함수 \n
 util.cpp : 게임 진행에 필요한 정보와 함수 모음
 display.cpp : 게임 정보를 화면에 출력하는 함수 모음
 game.cpp : 게임 수행 쿼리 관리
