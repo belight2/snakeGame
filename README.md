@@ -1,7 +1,7 @@
 C++Programming 3주차 과제 2번 - SnakeGame
 
 [ 실행 방법 ]
-1. cmd 또는 git bash를 실행시킨다.
+1. cmd 실행시킨다.
 2. 원하는 디렉터리로 이동한다.
 3. 그 다음 아래와 같은 순서로 명령어를 수행한다.
 4. git clone https://github.com/belight2/snakeGame snakegame
